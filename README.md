@@ -20,3 +20,6 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/AMudd26/SDT-Project-TT.git
+
+## Render URL of App
+   https://sdt-project-tt.onrender.com/
